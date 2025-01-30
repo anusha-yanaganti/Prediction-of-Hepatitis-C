@@ -1,2 +1,3 @@
-# python_ml
-predicting hepatitis C
+# predicting hepatitis C
+
+Python ML project
